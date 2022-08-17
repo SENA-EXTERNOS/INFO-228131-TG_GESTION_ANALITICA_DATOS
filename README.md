@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **Tecnólogo | Gestión de Analítica de Datos**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://sena-externos.github.io/INFO-228131-TG_GESTION_ANALITICA_DATOS/](https://sena-externos.github.io/INFO-228131-TG_GESTION_ANALITICA_DATOS/)
 
 #
